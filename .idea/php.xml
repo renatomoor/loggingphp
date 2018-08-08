@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration tool_path="$PROJECT_DIR$/phpmyadmin/vendor/bin/phpcs" />
+    </phpcs_settings>
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/google/recaptcha" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/samyoul/u2f-php-server" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/composer" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/gitonomy/gitlib" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpmyadmin/coding-standard" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpmyadmin/motranslator" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpmyadmin/shapefile" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/tecnickcom/tcpdf" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpmyadmin/sql-parser" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/codacy/coverage" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/twig/extensions" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpunit/phpunit-selenium" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpunit/php-token-stream" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.5.0" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/phpmyadmin/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
