@@ -4,12 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/home.php" line="67" mnemonic="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c002ae5-57ac-4932-a05b-393f8a148766" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/delete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/exit.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtualization/parameters.yml" beforeDir="false" afterPath="$PROJECT_DIR$/virtualization/parameters.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/virtualization/playbook.yml" beforeDir="false" afterPath="$PROJECT_DIR$/virtualization/playbook.yml" afterDir="false" />
-    </list>
+    <list default="true" id="8c002ae5-57ac-4932-a05b-393f8a148766" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +86,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="PHP Console" value="23" />
-          <entry key="cell" value="4" />
+          <entry key="cell" value="5" />
           <entry key="php" value="3963" />
           <entry key="sql" value="345" />
           <entry key="txt" value="19" />
@@ -104,7 +99,7 @@
           <entry key="PHP" value="3968" />
           <entry key="PLAIN_TEXT" value="19" />
           <entry key="SQL" value="51" />
-          <entry key="Scratch" value="298" />
+          <entry key="Scratch" value="299" />
           <entry key="YAML" value="14" />
         </counts>
       </usages-collector>
@@ -136,7 +131,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/functions/auth.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -154,7 +149,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="das://794d0d23-740a-491a-880f-0310a61c3e49/schema/php/table/users">
           <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
             <state>
@@ -385,12 +380,12 @@
       <workItem from="1533645204347" duration="1700000" />
       <workItem from="1533647074202" duration="10288000" />
       <workItem from="1533710962615" duration="19803000" />
-      <workItem from="1533744608063" duration="193000" />
+      <workItem from="1533744608063" duration="513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31984000" />
+    <option name="totallyTimeSpent" value="32304000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -405,7 +400,7 @@
     <frame x="0" y="22" width="1680" height="949" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4962963" visible="true" weight="0.11050061" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4962963" visible="true" weight="0.11050061" />
       <window_info id="Structure" order="1" sideWeight="0.5037037" side_tool="true" weight="0.10915868" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -424,7 +419,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.14909478" />
+      <window_info active="true" anchor="right" id="Database" order="3" visible="true" weight="0.14896215" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4962963" visible="true" weight="0.10915868" />
@@ -565,13 +560,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://794d0d23-740a-491a-880f-0310a61c3e49/schema/php/table/users">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/794d0d23-740a-491a-880f-0310a61c3e49/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -614,6 +602,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="62" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://794d0d23-740a-491a-880f-0310a61c3e49/schema/php/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
